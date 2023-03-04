@@ -56,8 +56,5 @@ We implemented these models using Scikit-learn, TensorFlow, and Keras libraries.
 
 We built a web application using Streamlit to provide a user-friendly interface for the recommendation system. Users can create a profile on the website, input their preferences, and receive personalized recommendations based on their interests and behavior on the platform.
 
-### Deployment
-The web application is deployed on Heroku, a cloud platform for hosting web applications. The deployment is automated using Git and GitHub Actions.
-
-Future Work
+### Future Work
 In the future, we plan to deploy the machine learning model on AWS to reduce the inference time and improve front-end of our website
