@@ -53,7 +53,7 @@ Programming Language
 
 We used several machine learning models to train the recommendation system, including:
 
-1) Decision Forests
+1) Decision Trees
 2) Logisitic Regression
 3) Gradient Boosted Trees
 4) Support Vector Machines
