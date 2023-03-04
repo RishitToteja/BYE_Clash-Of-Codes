@@ -35,7 +35,7 @@ Python 3.8
 ### Database and Data Handling
 1) Pandas
 2) NumPy
-3) NumPy
+3) Excel
 
 ### Web Development Framework
 1) Streamlit
