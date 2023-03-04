@@ -19,4 +19,45 @@ by likes ratio performed and received, etc. This evaluation wold be done based o
 
 
 
+Dating Website Recommendation System
+This is a machine learning project aimed at creating a recommendation system for a dating website. The system uses various AI and ML technologies to match users based on their interests, preferences, and behavior on the platform.
 
+## Technologies/Frameworks
+
+Programming Language
+Python 3.8
+
+### Machine Learning Libraries
+1) Scikit-learn
+2) TensorFlow
+3) Keras
+
+### Database and Data Handling
+1) Pandas
+2) NumPy
+3) NumPy
+
+### Web Development Framework
+1) Streamlit
+2) Flask
+
+### Machine Learning Models
+
+We used several machine learning models to train the recommendation system, including:
+
+1) Random Forests
+2) Logisitic Regression
+3) Gradient Boosted Trees
+4) Support Vector Machines
+
+We implemented these models using Scikit-learn, TensorFlow, and Keras libraries. The best accuracy was found out to be in Random Forest Classifier.
+
+### Web Application
+
+We built a web application using Streamlit to provide a user-friendly interface for the recommendation system. Users can create a profile on the website, input their preferences, and receive personalized recommendations based on their interests and behavior on the platform.
+
+### Deployment
+The web application is deployed on Heroku, a cloud platform for hosting web applications. The deployment is automated using Git and GitHub Actions.
+
+Future Work
+In the future, we plan to deploy the machine learning model on AWS to reduce the inference time and improve front-end of our website
