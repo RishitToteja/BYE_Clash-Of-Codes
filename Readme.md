@@ -1,4 +1,4 @@
-# ProfileConnect - Intelligent NLP-Based Profile Matching
+# VIBE - Intelligent NLP-Based Profile Matching
 ## P.S.- PROFILE SCORING AND FETCHING RANDOM PROFILES
 
 ### Demo Website Link - https://toteja-vibe-find-your-match-main-c9dio0.streamlit.app/
