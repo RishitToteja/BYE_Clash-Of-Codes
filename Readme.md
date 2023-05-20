@@ -7,10 +7,11 @@
 
 ## TEAM MEMBERS-
 
+* Rishit Toteja
+* Ishita Jain
 * Abhisht Dixit
 * Gunraj Singh
-* Ishita Jain
-* Rishit Toteja
+
 
 ## INTRODUCTION-
 
